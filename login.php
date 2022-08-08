@@ -33,7 +33,7 @@
                         <input type="password" name="" class="form-control form-control-lg py-3" placeholder="Masukan Password" id="password" required>
                     </div>
                     <div class="mb-3">
-                        <a href="">Lupa Kata Sandi  ?</a>
+                        <a href="lupa.php">Lupa Kata Sandi  ?</a>
                     </div>
                     <div class="form-group mb-3 d-grid">
                         <button type="submit" class="btn btn-primary fw-bold btn-lg py-3">Login</button>
